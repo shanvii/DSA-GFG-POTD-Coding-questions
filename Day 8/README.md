@@ -40,14 +40,14 @@ K = 5                    <br>
 
 **Explanation:** <br>
 The following paths sum to K.  
-3 2 
-3 1 1 
-1 3 1 
-4 1 
-1 -1 4 1 
--1 4 2 
-5 
-1 -1 5 
+3 2 <br>
+3 1 1 <br>
+1 3 1 <br>
+4 1 <br>
+1 -1 4 1 <br>
+-1 4 2 <br>
+5 <br>
+1 -1 5 <br>
 
 
 **Your Task:** 
