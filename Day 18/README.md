@@ -13,8 +13,11 @@ All keys in BST must be unique.
 **Input:** <br>
 N = 3 <br>
 arr = {2, 4, 5} <br>
+
 **Output:** 1 <br>
+
 **Explaination:** <br>
+
 Given array is inorder traversal for the following tree:<br>
 
 4 <br>
