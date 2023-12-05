@@ -1,4 +1,4 @@
-![image](https://github.com/shanvii/DSA-GFG-Coding-questions/assets/81086303/065edaa6-0c04-4a7b-a351-644e234de970)<h2>Minimize the Heights II</h2>
+<h2>Minimize the Heights II</h2>
 
 https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1
 
