@@ -32,3 +32,5 @@ Expected Auxiliary Space: O(Length(X) * Length(Y)).
 <br>
 Constraints:
 1<= |X|, |Y| <= 100
+  
+![Screenshot (421)](https://github.com/shanvii/DSA-GFG-Coding-questions/assets/81086303/0351e826-48e9-49a5-ae6c-29b03961179d)
