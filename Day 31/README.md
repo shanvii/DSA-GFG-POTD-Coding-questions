@@ -35,3 +35,6 @@ Expected Space Complexity: O(N) <br>
 
 Constraints: <br>
 1 ≤ N ≤ 10^5
+
+![Screenshot (389)](https://github.com/shanvii/DSA-GFG-Coding-questions/assets/81086303/a6193f44-0c50-4c06-91cb-a1b584848572)
+
