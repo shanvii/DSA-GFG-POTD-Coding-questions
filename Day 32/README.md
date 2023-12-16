@@ -4,11 +4,10 @@ https://www.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using
 
 Given a length n, count the number of strings of length n that can be made using a, b and c with at-most one b and two c allowed.
 
-## Example 1:
+## Example :
 ![image](https://github.com/shanvii/DSA-GFG-Coding-questions/assets/81086303/7cadf235-04fb-4d77-9383-249391d86e0b)
 
 
-## Example 2:
 ![image](https://github.com/shanvii/DSA-GFG-Coding-questions/assets/81086303/5d95933c-9aad-4efa-abb8-22e97a9b6c4a)
 
 
