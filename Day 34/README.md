@@ -47,3 +47,5 @@ Expected Auxiliary Space: O(1) <br>
 Constraints: <br>
 1 <= N <= 105 <br>
 0 <= A[i] <= 109
+![Screenshot (391)](https://github.com/shanvii/DSA-GFG-Coding-questions/assets/81086303/84dcb16a-1979-45c0-ae5c-c494732e0a63)
+
