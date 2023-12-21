@@ -43,3 +43,4 @@ Expected Auxiliary Space: O(N) <br>
 Constraints: <br>
 1 ≤ N ≤ 10^5 <br>
 0 ≤ ratingsi ≤ 10^9 
+![Screenshot (409)](https://github.com/shanvii/DSA-GFG-Coding-questions/assets/81086303/5e95c2bc-f26e-44cd-8c71-c8cb538a06d8)
