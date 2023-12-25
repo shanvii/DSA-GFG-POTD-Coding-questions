@@ -5,24 +5,32 @@ https://www.geeksforgeeks.org/problems/determinant-of-a-matrix-1587115620/1
 Given a square matrix of size n*n. The task is to find the determinant of this matrix.
 
 <h3>Example 1:</h3> <br>
+
 **Input:** <br>
 n = 4  <br>
+
 matrix[][]  = {{1, 0, 2, -1},  <br>
               {3, 0, 0, 5},  <br>
               {2, 1, 4, -3},  <br>
               {1, 0, 5, 0}}  <br>
+              
 **Output:** 30  <br>
+
 **Explanation:**  <br>
 Determinant of the given matrix is 30.
 
 
 <h3>Example 2:</h3>
+
 **Input:**  <br>
 n = 3
+
 matrix[][] = {{1, 2, 3},  <br>
               {4, 5, 6},  <br>
               {7, 10, 9}}  <br>
+              
 **Output:** 12  <br>
+
 **Explanation:**  <br>
 Determinant of the given matrix is 12.
 
