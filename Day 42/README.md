@@ -45,5 +45,12 @@ Expected Auxiliary Space: O(N*M).  <br/>
 
 **Constraints:**  <br/>
 1 <= N, M <= 100  <br/>
--1000 <= mat[][] <= 1000
+-1000 <= mat[][] <= 1000          <br/>
+
+![Screenshot (554)](https://github.com/shanvii/DSA-GFG-Coding-questions/assets/81086303/2a221b7e-1dc3-4a7b-b2b7-640cc3f16582)
+
+<br/>
+
+![Screenshot (555)](https://github.com/shanvii/DSA-GFG-Coding-questions/assets/81086303/0e7b7121-63e5-432d-8d3e-15977ab8e866)
+
  
