@@ -56,3 +56,5 @@ Expected Auxiliary Space : O(K)
 
 Constraints:
 1 <= K <= N <= 10^5
+
+![Screenshot (455)](https://github.com/shanvii/DSA-GFG-Coding-questions/assets/81086303/8210dd8a-8ab1-4633-9b9a-3f0ce01d5389)
